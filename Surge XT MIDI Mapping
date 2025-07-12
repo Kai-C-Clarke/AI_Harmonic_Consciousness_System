@@ -1,0 +1,41 @@
+Surge XT MIDI Mapping
+Individual parameter MIDI mappings
+CC#	Channel	Parameter
+4	1	Scene A Pitch
+17	1	Scene A Osc 1 Pitch
+5	1	Scene A Osc 1 Shape
+20	1	Scene A Osc 1 Width 1
+23	1	Scene A Osc 1 Unison Detune
+18	1	Scene A Osc 2 Pitch
+21	1	Scene A Osc 2 Width 1
+19	1	Scene A Osc 3 Pitch
+22	1	Scene A Osc 3 Sub Mix
+24	1	Scene A FM Depth
+8	1	Scene A Osc Drift
+3	1	Scene A Volume
+14	1	Scene A Width
+27	1	Scene A Feedback
+26	1	Scene A Filter Balance
+1	1	Scene A Filter 1 Cutoff
+2	1	Scene A Filter 1 Resonance
+25	1	Scene A Filter 2 Cutoff
+16	1	Scene A Filter 2 Resonance
+29	1	Scene A Amp EG Attack
+30	1	Scene A Amp EG Sustain
+31	1	Scene A Amp EG Release
+7	1	Scene A Filter EG Sustain
+9	1	Scene A Filter EG Release
+11	1	Scene A LFO 1 Rate
+12	1	Scene A LFO 1 Amplitude
+13	1	Scene A LFO 1 Decay
+
+Macro Assignments
+CC#	Channel	Macro	Custom Name
+N/A	Omni	1	-
+N/A	Omni	2	-
+N/A	Omni	3	-
+N/A	Omni	4	-
+N/A	Omni	5	-
+N/A	Omni	6	-
+N/A	Omni	7	-
+N/A	Omni	8	-

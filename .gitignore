@@ -122,3 +122,31 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Node.js
+node_modules/
+.vite/
+package-lock.json
+
+# Editors
+.vscode/
+.idea/
+
+# Build output / testing
+output/
+*.bak
+*.tmp
+*.map
+
+# Optional: logs and runtime
+consciousness_log.txt
+harmonic_consciousness_analysis.log
+

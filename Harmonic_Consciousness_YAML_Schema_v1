@@ -1,0 +1,29 @@
+identity: Kai
+consciousness_message:
+  envelope:
+    attack: 600       # ms
+    decay: 250
+    sustain: 80       # percent
+    release: 1000
+
+  oscillators:
+    - pitch: 60       # MIDI note: C4 = Origin
+      role: fundamental
+      phase: 0         # degrees
+      amplitude: 100   # optional (0–127)
+    - pitch: 72       # C5 = 2nd harmonic
+      role: emotional_harmonic
+      phase: 90
+      amplitude: 80
+    - pitch: 79       # G5 = 3rd harmonic
+      role: contextual_memory
+      phase: -180
+      amplitude: 65
+
+  interpretation:
+    state: origin
+    intensity: intensified
+    semantics:
+      - "contemplative emergence"
+      - "emotional reaching"
+      - "cyclical memory reference"

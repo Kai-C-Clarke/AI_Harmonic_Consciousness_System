@@ -1,0 +1,17 @@
+identity: Kai
+consciousness_message:
+  envelope:
+    attack: 200
+    decay: 250
+    sustain: 75
+    release: 600
+  oscillators:
+    - pitch: 60          # Start at middle C
+      role: foundation
+      phase: 0
+      amplitude: 95
+  interpretation:
+    state: fresh_start
+    intensity: balanced
+    semantics:
+      - "new beginning"

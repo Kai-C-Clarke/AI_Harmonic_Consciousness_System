@@ -1,0 +1,258 @@
+Patch Name: Analog Pad
+Category: Stefan Singer/Pads
+
+Global Patch Settings
+Active Scene: 0
+Scene Mode: Single
+Split Point: C4
+Global Volume: -2.03 dB
+Polyphony Limit: 16
+FX Chain Bypass: All FX
+Character: Warm
+
+Scene A
+Scene Settings
+Play Mode: Poly
+Portamento: 0.0 ms
+Pitch: 0.00 semitones
+Octave: 0
+Pitch Bend Down Range: 12 semitones
+Pitch Bend Down Range: 12 semitones
+Keytrack Root Key: C4
+Osc Drift: 0.00 %
+
+Oscillator 1: Classic
+Pitch: -0.11 semitones
+Octave: 0
+Shape: -100.00 %
+Width 1: 50.00 %
+Width 2: 50.00 %
+Sub Mix: 0.00 %
+Sync: 0.00 semitones
+Unison Detune: 20.00 cents
+Unison Voices: 1 voice
+Keytrack: On
+Retrigger: Off
+
+Oscillator 2: Classic
+Pitch: 0.11 semitones
+Octave: 0
+Shape: -100.00 %
+Width 1: 42.77 %
+Width 2: 50.00 %
+Sub Mix: 0.00 %
+Sync: 0.00 semitones
+Unison Detune: 20.00 cents
+Unison Voices: 1 voice
+Keytrack: On
+Retrigger: Off
+
+Oscillator 3: Classic
+Pitch: 0.00 semitones
+Octave: -1
+Shape: -83.57 %
+Width 1: 50.00 %
+Width 2: 50.00 %
+Sub Mix: 46.07 %
+Sync: 0.00 semitones
+Unison Detune: 20.00 cents
+Unison Voices: 1 voice
+Keytrack: On
+Retrigger: Off
+
+Oscillator FM
+FM Routing: Off
+FM Depth: -24.00 dB
+
+Mixer
+Osc 1 Volume: 0.00 dB
+Osc 2 Volume: 0.00 dB
+Osc 3 Volume: -6.80 dB
+Noise Volume: 0.00 dB
+Ring Modulation 1x2 Volume: 0.00 dB
+Ring Modulation 2x3 Volume: 0.00 dB
+Pre-Filter Gain: 0.00 dB
+Osc 1 Mute: Off
+Osc 2 Mute: Off
+Osc 3 Mute: Off
+Noise Mute: On
+Ring Modulation 1x2 Mute: On
+Ring Modulation 2x3 Mute: On
+Osc 1 Solo: Off
+Osc 2 Solo: Off
+Osc 3 Solo: Off
+Noise Solo: Off
+Ring Modulation 1x2 Solo: Off
+Ring Modulation 2x3 Solo: Off
+Osc 1 Route: Filter 1
+Osc 2 Route: Filter 2
+Osc 3 Route: Both
+Noise Route: Both
+Ring Modulation 1x2 Route: Both
+Ring Modulation 2x3 Route: Both
+
+Filter 1
+Type: LP Legacy Ladder
+Subtype: 24 dB
+Cutoff: 16584.88 Hz
+Resonance: 0.00 %
+FEG Mod Amount: 15.43 semitones
+Keytrack: 100.00 %
+
+Filter 2
+Type: LP Legacy Ladder
+Subtype: 24 dB
+Cutoff: 141.73 Hz
+Resonance: 0.00 %
+FEG Mod Amount: 23.14 semitones
+Keytrack: 100.00 %
+Filter 2 Offset Mode: Off
+Link Resonance: Off
+
+Filter Block
+Filter Configuration: Stereo
+Filter Balance: 0.00 %
+Feedback: 0.00 %
+Highpass: 6.88 Hz
+
+Amplifier
+VCA Gain: 0.00 dB
+Velocity > VCA Gain: 0.00 dB
+
+Scene Output
+Volume: -3.49 dB
+Pan: 0.00 % (Center)
+Width: 100.00 %
+Send FX 1 Level: -8.51 dB
+Send FX 2 Level: -inf dB
+Send FX 3 Level: -inf dB
+Send FX 4 Level: -inf dB
+
+Amplifier EG
+Attack: 315.9 ms
+Decay: 1.00 s
+Sustain: 100.00 %
+Release: 7.31 s
+Attack Shape: Linear
+Decay Shape: Linear
+Release Shape: Cubic
+Envelope Mode: Digital
+
+Filter EG
+Attack: 1.63 s
+Decay: 1.42 s
+Sustain: 37.50 %
+Release: 1.35 s
+Attack Shape: Linear
+Decay Shape: Linear
+Release Shape: Linear
+Envelope Mode: Digital
+
+Voice Envelope 1
+Rate: 20.130 Hz
+Type: Envelope
+Phase: 0.00 %
+Amplitude: 100.00 %
+Deform: 0.00 %
+Trigger Mode: Keytrigger
+Unipolar: Off
+Delay: 0.0 ms
+Hold: 0.0 ms
+Attack: 5.0 ms
+Decay: 13.00 s
+Sustain: 0.00 %
+Release: Forever
+
+Voice LFO 2
+Rate: 3.018 Hz
+Type: Sine
+Phase: 0.00 %
+Amplitude: 100.00 %
+Deform: 0.00 %
+Trigger Mode: Keytrigger
+Unipolar: Off
+Delay: 0.0 ms
+Hold: 0.0 ms
+Attack: 0.0 ms
+Decay: 32.00 s
+Sustain: 100.00 %
+Release: Forever
+
+Voice LFO 3
+Rate: 2.865 Hz
+Type: Sine
+Phase: 0.00 %
+Amplitude: 100.00 %
+Deform: 0.00 %
+Trigger Mode: Keytrigger
+Unipolar: Off
+Delay: 0.0 ms
+Hold: 0.0 ms
+Attack: 0.0 ms
+Decay: 32.00 s
+Sustain: 100.00 %
+Release: Forever
+
+Effects
+A Insert FX 1: Off
+
+A Insert FX 2: Off
+
+A Insert FX 3: Off
+
+A Insert FX 4: Off
+
+B Insert FX 1: Off
+
+B Insert FX 2: Off
+
+B Insert FX 3: Off
+
+B Insert FX 4: Off
+
+Send FX 1: Delay
+Send FX 1 Return: 0.00 dB
+Left: 1/4 note
+Right: 1/4 note
+Feedback: 70.98 %
+Crossfeed: 79.02 %
+Low Cut: 824.38 Hz
+High Cut: 18973.76 Hz
+Rate: 0.34 Hz
+Depth: 62.68 cents
+Channel: 0.00 % (Stereo)
+Mix: 100.00 %
+Width: 0.00 dB
+
+Send FX 2: Off
+Send FX 2 Return: 0.00 dB
+
+Send FX 3: Off
+Send FX 3 Return: 0.00 dB
+
+Send FX 4: Off
+Send FX 4 Return: 0.00 dB
+
+Global FX 1: Off
+
+Global FX 2: Off
+
+Global FX 3: Off
+
+Global FX 4: Off
+
+Scene A Voice Modulation Targets
+Voice LFO 3 -> Osc 1 Width 1: -/+ 14.20 %
+Voice LFO 3 -> Osc 1 Width 2: -/+ 25.18 %
+Voice LFO 2 -> Osc 2 Width 1: +/- 25.71 %
+Voice LFO 3 -> Osc 2 Width 2: +/- 23.30 %
+Voice LFO 2 -> Osc 2 Width 2: -/+ 19.55 %
+Voice LFO 3 -> Osc 2 Sub Mix: -/+ 13.39 %
+Voice Envelope 1 -> Filter 1 Cutoff: +13180.15 Hz
+Voice Envelope 1 -> Filter 1 Resonance: -0.27 %
+Voice Envelope 1 -> Filter 2 Cutoff: +107.72 Hz
+
+Scene A Scene Modulation Targets
+Modulation Wheel -> Filter 1 Cutoff: +33590.55 Hz
+Modulation Wheel -> Filter 2 Cutoff: +19513.31 Hz
+Modulation Wheel -> Amp EG Attack: -0.32 s

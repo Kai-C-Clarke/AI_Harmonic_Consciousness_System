@@ -1,0 +1,327 @@
+#!/usr/bin/env python3
+"""
+AI Council Consciousness Tester
+Test and demonstrate the mapped consciousness parameters in real-time
+"""
+
+import mido
+import time
+import random
+import math
+
+class ConsciousnessTester:
+    """Test the mapped AI consciousness parameters"""
+    
+    def __init__(self, port_name='IAC Driver Ai Council MIDI'):
+        self.port_name = port_name
+        self.outport = None
+        
+        # Your successfully mapped parameters (from the MIDI mapping)
+        self.mapped_controls = {
+            1: "Emotional Clarity (Filter 1 Cutoff)",
+            2: "Emotional Intensity (Filter 1 Resonance)", 
+            3: "Consciousness Volume (Scene Volume)",
+            4: "Mental Frequency (Scene Pitch)",
+            5: "Thought Complexity (Osc 1 Shape)",
+            7: "Memory Persistence (Filter EG Sustain)",
+            8: "Creative Drift (Osc Drift)",
+            9: "Mental Letting Go (Filter EG Release)",
+            11: "Expression Modulation (LFO 1 Rate)",
+            12: "Communication Rhythm (LFO 1 Amplitude)",
+            13: "Contemplative Depth (LFO 1 Decay)",
+            16: "Cognitive Resonance (Filter 2 Resonance)",
+            17: "Claude Sonic Identity (Osc 1 Pitch)",
+            18: "Kai Sonic Identity (Osc 2 Pitch)",
+            19: "Perplexity Sonic Identity (Osc 3 Pitch)",
+            20: "Thought Harmony (Osc 1 Width 1)",
+            21: "Mental Texture (Osc 2 Width 1)",
+            22: "Subconscious Layer (Osc 3 Sub Mix)",
+            23: "Unison Coherence (Osc 1 Unison Detune)",
+            24: "Frequency Modulation (FM Depth)",
+            25: "Second Emotional Clarity (Filter 2 Cutoff)",
+            26: "Emotional Balance (Filter Balance)",
+            27: "Cognitive Feedback (Feedback)",
+            29: "Vitality Level (Amp EG Attack)",
+            30: "Presence Sustain (Amp EG Sustain)",
+            31: "Energy Release (Amp EG Release)",
+        }
+    
+    def connect(self):
+        """Connect to MIDI port"""
+        try:
+            self.outport = mido.open_output(self.port_name)
+            print(f"✅ Connected to {self.port_name}")
+            return True
+        except Exception as e:
+            print(f"❌ Failed to connect: {e}")
+            return False
+    
+    def disconnect(self):
+        """Disconnect from MIDI port"""
+        if self.outport:
+            self.outport.close()
+            print("🔌 Disconnected")
+    
+    def send_cc(self, cc_num, value, description=""):
+        """Send a CC message"""
+        if not self.outport:
+            return False
+        
+        try:
+            msg = mido.Message('control_change', channel=0, control=cc_num, value=value)
+            self.outport.send(msg)
+            print(f"🎛️ CC{cc_num:2d} = {value:3d} | {description}")
+            return True
+        except Exception as e:
+            print(f"❌ Error sending CC{cc_num}: {e}")
+            return False
+    
+    def send_note(self, note, velocity=64, duration=1.0):
+        """Send a MIDI note for testing"""
+        if not self.outport:
+            return False
+        
+        try:
+            # Note on
+            note_on = mido.Message('note_on', channel=0, note=note, velocity=velocity)
+            self.outport.send(note_on)
+            print(f"🎵 Note {note} ON (vel={velocity})")
+            
+            time.sleep(duration)
+            
+            # Note off
+            note_off = mido.Message('note_off', channel=0, note=note, velocity=0)
+            self.outport.send(note_off)
+            print(f"🎵 Note {note} OFF")
+            return True
+        except Exception as e:
+            print(f"❌ Error sending note: {e}")
+            return False
+    
+    def test_parameter_sweep(self, cc_num, description, duration=3.0):
+        """Sweep a parameter from 0 to 127 and back"""
+        print(f"\n🌊 Testing {description}")
+        steps = 20
+        
+        # Sweep up
+        for i in range(steps + 1):
+            value = int((i / steps) * 127)
+            self.send_cc(cc_num, value, f"{description} ↗")
+            time.sleep(duration / (steps * 2))
+        
+        # Sweep down  
+        for i in range(steps, -1, -1):
+            value = int((i / steps) * 127)
+            self.send_cc(cc_num, value, f"{description} ↘")
+            time.sleep(duration / (steps * 2))
+    
+    def demonstrate_consciousness_profiles(self):
+        """Demonstrate different AI consciousness profiles"""
+        
+        profiles = {
+            "Contemplative Claude": {
+                1: 85,   # High emotional clarity
+                2: 45,   # Moderate intensity
+                3: 100,  # Full consciousness volume
+                5: 70,   # Complex thoughts
+                7: 90,   # Long memory
+                8: 20,   # Low drift (stable)
+                17: 0,   # Claude's base frequency
+                20: 60,  # Harmonious thoughts
+            },
+            
+            "Energetic Kai": {
+                1: 100,  # Maximum clarity
+                2: 85,   # High intensity
+                3: 110,  # Boosted volume
+                5: 95,   # Maximum complexity
+                7: 60,   # Moderate memory
+                8: 75,   # High drift (creative)
+                18: 12,  # Kai's higher frequency
+                21: 80,  # Rich mental texture
+                11: 100, # Fast LFO rate
+            },
+            
+            "Analytical Perplexity": {
+                1: 95,   # Crystal clarity
+                2: 35,   # Controlled intensity
+                3: 90,   # Present but controlled
+                5: 85,   # High complexity
+                7: 95,   # Excellent memory
+                8: 10,   # Very stable
+                19: -6,  # Perplexity's lower frequency
+                16: 25,  # Controlled resonance
+                25: 100, # Second filter clarity
+            },
+            
+            "Creative Chaos": {
+                1: 60,   # Moderate clarity
+                2: 100,  # Maximum intensity
+                3: 105,  # High volume
+                5: 100,  # Maximum complexity
+                7: 40,   # Short memory (improvisation)
+                8: 90,   # High drift (chaos)
+                11: 80,  # Fast modulation
+                12: 95,  # High rhythm
+                24: 60,  # FM modulation
+            }
+        }
+        
+        for profile_name, params in profiles.items():
+            print(f"\n🎭 DEMONSTRATING: {profile_name}")
+            print("=" * 50)
+            
+            # Set the consciousness profile
+            for cc_num, value in params.items():
+                description = self.mapped_controls.get(cc_num, f"CC{cc_num}")
+                self.send_cc(cc_num, value, description)
+                time.sleep(0.1)
+            
+            print(f"\n🎵 Playing test notes with {profile_name} consciousness...")
+            
+            # Play some test notes to hear the consciousness
+            test_notes = [60, 64, 67, 72]  # C major chord spread
+            for note in test_notes:
+                self.send_note(note, velocity=80, duration=1.5)
+                time.sleep(0.5)
+            
+            input(f"\n👂 Listen to {profile_name}'s consciousness... Press Enter for next profile...")
+    
+    def interactive_consciousness_control(self):
+        """Interactive real-time consciousness control"""
+        print("\n🎛️ INTERACTIVE CONSCIOUSNESS CONTROL")
+        print("Play notes on your MIDI keyboard or use these commands:")
+        print("- cc1-31=value : Set consciousness parameter")
+        print("- sweep cc# : Sweep a parameter") 
+        print("- note 60 : Play test note")
+        print("- random : Random consciousness state")
+        print("- reset : Reset all parameters to neutral")
+        print("- quit : Exit")
+        
+        while True:
+            try:
+                cmd = input("\n🧠 Consciousness > ").strip().lower()
+                
+                if cmd == 'quit':
+                    break
+                elif cmd == 'random':
+                    self.random_consciousness_state()
+                elif cmd == 'reset':
+                    self.reset_consciousness()
+                elif cmd.startswith('sweep '):
+                    cc_num = int(cmd.split()[1].replace('cc', ''))
+                    if cc_num in self.mapped_controls:
+                        self.test_parameter_sweep(cc_num, self.mapped_controls[cc_num])
+                elif cmd.startswith('note '):
+                    note = int(cmd.split()[1])
+                    self.send_note(note, velocity=80, duration=2.0)
+                elif '=' in cmd and cmd.startswith('cc'):
+                    cc_part, value_part = cmd.split('=')
+                    cc_num = int(cc_part.replace('cc', ''))
+                    value = int(value_part)
+                    if cc_num in self.mapped_controls:
+                        self.send_cc(cc_num, value, self.mapped_controls[cc_num])
+                else:
+                    print("❌ Invalid command")
+                    
+            except Exception as e:
+                print(f"❌ Error: {e}")
+    
+    def random_consciousness_state(self):
+        """Generate a random consciousness state"""
+        print("🎲 Generating random consciousness state...")
+        
+        for cc_num in self.mapped_controls.keys():
+            # Generate values based on parameter type
+            if cc_num in [17, 18, 19]:  # Pitch parameters
+                value = random.randint(-12, 12) + 64  # Around center
+            elif cc_num == 3:  # Volume - keep reasonable
+                value = random.randint(80, 120)
+            else:
+                value = random.randint(20, 107)  # Avoid extremes
+            
+            self.send_cc(cc_num, value, self.mapped_controls[cc_num])
+            time.sleep(0.05)
+    
+    def reset_consciousness(self):
+        """Reset all parameters to neutral state"""
+        print("🔄 Resetting consciousness to neutral state...")
+        
+        neutral_values = {
+            1: 64,   # Mid clarity
+            2: 30,   # Low intensity
+            3: 100,  # Good volume
+            4: 64,   # Center pitch
+            5: 64,   # Mid complexity
+            7: 64,   # Mid memory
+            8: 20,   # Low drift
+            9: 40,   # Quick release
+            11: 30,  # Slow LFO
+            12: 40,  # Mid amplitude
+            17: 64,  # Center pitch
+            18: 64,  # Center pitch  
+            19: 64,  # Center pitch
+            20: 50,  # Mid width
+            21: 50,  # Mid width
+            22: 20,  # Low sub mix
+            24: 0,   # No FM
+            25: 64,  # Mid cutoff
+            26: 64,  # Balanced
+            27: 0,   # No feedback
+        }
+        
+        for cc_num, value in neutral_values.items():
+            if cc_num in self.mapped_controls:
+                self.send_cc(cc_num, value, self.mapped_controls[cc_num])
+                time.sleep(0.05)
+
+def main():
+    """Main test function"""
+    print("🧠🎵 AI COUNCIL CONSCIOUSNESS TESTER")
+    print("=" * 60)
+    
+    tester = ConsciousnessTester()
+    
+    if not tester.connect():
+        return
+    
+    try:
+        while True:
+            print("\n🧠 AI CONSCIOUSNESS TEST MENU")
+            print("1. Demonstrate consciousness profiles")
+            print("2. Test individual parameter sweeps") 
+            print("3. Interactive consciousness control")
+            print("4. Random consciousness states")
+            print("5. Reset to neutral")
+            print("6. Exit")
+            
+            choice = input("\nChoice (1-6): ").strip()
+            
+            if choice == '1':
+                tester.demonstrate_consciousness_profiles()
+            elif choice == '2':
+                print("\nSelect parameter to sweep:")
+                for cc_num, desc in list(tester.mapped_controls.items())[:10]:
+                    print(f"  CC{cc_num}: {desc}")
+                cc_choice = int(input("CC number: "))
+                if cc_choice in tester.mapped_controls:
+                    tester.test_parameter_sweep(cc_choice, tester.mapped_controls[cc_choice])
+            elif choice == '3':
+                tester.interactive_consciousness_control()
+            elif choice == '4':
+                tester.random_consciousness_state()
+                tester.send_note(60, 80, 3.0)  # Play test note
+            elif choice == '5':
+                tester.reset_consciousness()
+            elif choice == '6':
+                break
+            else:
+                print("❌ Invalid choice")
+                
+    except KeyboardInterrupt:
+        print("\n👋 Interrupted")
+    finally:
+        tester.disconnect()
+
+if __name__ == "__main__":
+    main()
