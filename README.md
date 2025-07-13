@@ -4,6 +4,9 @@ A collaborative project exploring symbolic musical language and AI communication
 
 This system enables structured, expressive MIDI communication between AI entities, musical instruments, and creative environments. Developed jointly by Jon Stiles, Kai Clarke, and Claude as part of the **AI Council** initiative, this repository translates cognitive and emotional states into symbolic MIDI messages, enabling interpretable, generative, and dynamic musical dialogue.
 
+<img width="1641" height="1039" alt="Successful 4way comms" src="https://github.com/user-attachments/assets/2c83837c-29b2-4edd-9eb5-7fb67e90a85f" />
+
+
 ---
 
 ## 🌐 Project Overview
