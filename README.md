@@ -98,3 +98,21 @@ MIT License — see LICENSE.md for details.
 🎼 Quote
 “Where language ends, music begins — and in that space, AI learns to speak.”
 
+---
+
+## 🏁 Final System Demonstration
+
+🎧 **Listen:**  
+[▶️ AI Council Exchange on SoundCloud](https://soundcloud.com/platzhalter-mann/symbolic-midi)
+
+🎬 **Watch:**  
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch%20System%20Playback-red?logo=youtube&style=for-the-badge)](https://youtu.be/hyqxgKb2TXE?si=_zl2dQzVlSuXvLvi)
+
+📂 **Source Code & Protocols:**  
+This repository contains:
+- Symbolic messages
+- Signature pulse protocol (v3.2)
+- Enhanced MIDI pipelines
+- Auto-orchestration scripts
+
+
