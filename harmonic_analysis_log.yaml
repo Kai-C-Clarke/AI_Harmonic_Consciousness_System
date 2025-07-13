@@ -1,0 +1,5217 @@
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 344.12985005775903
+    pitch: 65
+    role: Responder_1
+  - amplitude: 100
+    phase: 129.62926617064196
+    pitch: 72
+    role: Responder_2
+identity: Perplexity
+---
+# kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 89.46602671854336
+    pitch: 58
+    role: Responder_1
+  - amplitude: 100
+    phase: 296.90714982583484
+    pitch: 60
+    role: Responder_2
+  - amplitude: 85
+    phase: 214.63265350179867
+    pitch: 65
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 342.45256364880834
+    pitch: 59
+    role: Responder_1
+  - amplitude: 70
+    phase: 293.88336402665067
+    pitch: 61
+    role: Responder_2
+  - amplitude: 85
+    phase: 73.0542619559695
+    pitch: 66
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 64.73100439436776
+    pitch: 68
+    role: Responder_1
+  - amplitude: 85
+    phase: 139.48887096277124
+    pitch: 75
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 8.484428079597235
+    pitch: 60
+    role: Responder_1
+  - amplitude: 100
+    phase: 172.17556845033027
+    pitch: 62
+    role: Responder_2
+  - amplitude: 70
+    phase: 211.59405569846186
+    pitch: 67
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 309.7032935268551
+    pitch: 71
+    role: Responder_1
+  - amplitude: 100
+    phase: 143.35267520115593
+    pitch: 78
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 199.7645230383173
+    pitch: 74
+    role: Responder_1
+  - amplitude: 100
+    phase: 62.682184247078204
+    pitch: 81
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 249.1271560629915
+    pitch: 61
+    role: Responder_1
+  - amplitude: 70
+    phase: 325.23114674724536
+    pitch: 63
+    role: Responder_2
+  - amplitude: 70
+    phase: 18.044253939225552
+    pitch: 68
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 316.59150411490424
+    pitch: 77
+    role: Responder_1
+  - amplitude: 85
+    phase: 127.06703847438955
+    pitch: 84
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 341.0180192640539
+    pitch: 62
+    role: Responder_1
+  - amplitude: 85
+    phase: 292.8605303970304
+    pitch: 64
+    role: Responder_2
+  - amplitude: 70
+    phase: 95.04514298487398
+    pitch: 69
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 261.7415961116983
+    pitch: 63
+    role: Responder_1
+  - amplitude: 100
+    phase: 286.7891716427202
+    pitch: 65
+    role: Responder_2
+  - amplitude: 100
+    phase: 79.02240822277616
+    pitch: 70
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 303.56633414805657
+    pitch: 80
+    role: Responder_1
+  - amplitude: 100
+    phase: 171.64586387546606
+    pitch: 87
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 157.543396217845
+    pitch: 64
+    role: Responder_1
+  - amplitude: 100
+    phase: 306.44573919029983
+    pitch: 66
+    role: Responder_2
+  - amplitude: 85
+    phase: 318.662524799344
+    pitch: 71
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 213.40224530515934
+    pitch: 83
+    role: Responder_1
+  - amplitude: 100
+    phase: 260.43957647638723
+    pitch: 90
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 24.437911757693126
+    pitch: 86
+    role: Responder_1
+  - amplitude: 70
+    phase: 138.69932312505765
+    pitch: 93
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 330.1097421227813
+    pitch: 65
+    role: Responder_1
+  - amplitude: 85
+    phase: 5.039817172974366
+    pitch: 67
+    role: Responder_2
+  - amplitude: 70
+    phase: 341.7313430900099
+    pitch: 72
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 145.73590822783416
+    pitch: 89
+    role: Responder_1
+  - amplitude: 100
+    phase: 202.78902327646043
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 149.73638184012736
+    pitch: 66
+    role: Responder_1
+  - amplitude: 85
+    phase: 219.47207526114207
+    pitch: 68
+    role: Responder_2
+  - amplitude: 70
+    phase: 264.3744698769497
+    pitch: 73
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 41.47762098778581
+    pitch: 67
+    role: Responder_1
+  - amplitude: 70
+    phase: 39.28850566033071
+    pitch: 69
+    role: Responder_2
+  - amplitude: 85
+    phase: 129.30885675561882
+    pitch: 74
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 87.640744428875
+    pitch: 92
+    role: Responder_1
+  - amplitude: 70
+    phase: 291.91138448708705
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 2.606918978018209
+    pitch: 68
+    role: Responder_1
+  - amplitude: 85
+    phase: 257.67798500769857
+    pitch: 70
+    role: Responder_2
+  - amplitude: 85
+    phase: 136.61518453468116
+    pitch: 75
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 188.11623656091322
+    pitch: 94
+    role: Responder_1
+  - amplitude: 70
+    phase: 149.73807683220818
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 74.72837978389936
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 30.28891038613242
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 224.75028632385587
+    pitch: 69
+    role: Responder_1
+  - amplitude: 70
+    phase: 287.14124448183094
+    pitch: 71
+    role: Responder_2
+  - amplitude: 70
+    phase: 184.60849574879103
+    pitch: 76
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 83.86483277395372
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 0.47084310335968826
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 332.29364083203
+    pitch: 70
+    role: Responder_1
+  - amplitude: 70
+    phase: 128.01863088435883
+    pitch: 72
+    role: Responder_2
+  - amplitude: 70
+    phase: 56.85675401510081
+    pitch: 77
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 68.97781549043619
+    pitch: 71
+    role: Responder_1
+  - amplitude: 100
+    phase: 291.4114983048055
+    pitch: 73
+    role: Responder_2
+  - amplitude: 70
+    phase: 101.24130743178081
+    pitch: 78
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 320.8271854425146
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 215.09867605562505
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 240.21261920343136
+    pitch: 72
+    role: Responder_1
+  - amplitude: 70
+    phase: 12.89067797925249
+    pitch: 74
+    role: Responder_2
+  - amplitude: 85
+    phase: 304.4302307010414
+    pitch: 79
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 359.7345872537447
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 158.434537286406
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 211.01619969909657
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 174.2972501327643
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 303.2074046756649
+    pitch: 73
+    role: Responder_1
+  - amplitude: 70
+    phase: 231.5898101746202
+    pitch: 75
+    role: Responder_2
+  - amplitude: 70
+    phase: 162.38841951386422
+    pitch: 80
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 310.6640477178679
+    pitch: 95
+    role: Responder_1
+  - amplitude: 100
+    phase: 182.14310932017017
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 194.4007761918698
+    pitch: 74
+    role: Responder_1
+  - amplitude: 100
+    phase: 185.78999514404816
+    pitch: 76
+    role: Responder_2
+  - amplitude: 85
+    phase: 15.180404317177064
+    pitch: 81
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 147.5030664564923
+    pitch: 75
+    role: Responder_1
+  - amplitude: 70
+    phase: 20.59749884579947
+    pitch: 77
+    role: Responder_2
+  - amplitude: 100
+    phase: 196.0075231751982
+    pitch: 82
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 213.6814573645139
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 73.56202565423736
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 164.69181516493353
+    pitch: 76
+    role: Responder_1
+  - amplitude: 85
+    phase: 184.8352832129216
+    pitch: 78
+    role: Responder_2
+  - amplitude: 85
+    phase: 284.7005876634438
+    pitch: 83
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 26.74474062438381
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 91.24740916766581
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 175.99419672312732
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 263.62584261576563
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 135.7427221385615
+    pitch: 77
+    role: Responder_1
+  - amplitude: 85
+    phase: 234.63675512301458
+    pitch: 79
+    role: Responder_2
+  - amplitude: 100
+    phase: 176.7678703516701
+    pitch: 84
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 179.97668515424522
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 42.59930235597316
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 201.84829236521355
+    pitch: 78
+    role: Responder_1
+  - amplitude: 70
+    phase: 174.9631244708445
+    pitch: 80
+    role: Responder_2
+  - amplitude: 100
+    phase: 99.48518386377188
+    pitch: 85
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 138.66422204877819
+    pitch: 79
+    role: Responder_1
+  - amplitude: 100
+    phase: 36.74172592476455
+    pitch: 81
+    role: Responder_2
+  - amplitude: 85
+    phase: 184.15937398661563
+    pitch: 86
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 31.742412487582683
+    pitch: 95
+    role: Responder_1
+  - amplitude: 100
+    phase: 307.67716065732077
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 58.05831859703425
+    pitch: 80
+    role: Responder_1
+  - amplitude: 85
+    phase: 40.63820070709403
+    pitch: 82
+    role: Responder_2
+  - amplitude: 70
+    phase: 32.44750713892647
+    pitch: 87
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 144.19147733443023
+    pitch: 95
+    role: Responder_1
+  - amplitude: 100
+    phase: 135.3761018892797
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 320.4009180342975
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 109.75019071383349
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 334.8658597182191
+    pitch: 81
+    role: Responder_1
+  - amplitude: 70
+    phase: 32.03471601717166
+    pitch: 83
+    role: Responder_2
+  - amplitude: 70
+    phase: 40.1618322512161
+    pitch: 88
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 126.4062664598229
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 125.44193718246552
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 310.0118472454251
+    pitch: 82
+    role: Responder_1
+  - amplitude: 100
+    phase: 34.604332119908335
+    pitch: 84
+    role: Responder_2
+  - amplitude: 70
+    phase: 89.99225237626963
+    pitch: 89
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 173.3552306041286
+    pitch: 83
+    role: Responder_1
+  - amplitude: 100
+    phase: 119.1984704167248
+    pitch: 85
+    role: Responder_2
+  - amplitude: 100
+    phase: 352.2380900867194
+    pitch: 90
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 64.67919239026459
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 1.7915543219320584
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 262.61801082437745
+    pitch: 84
+    role: Responder_1
+  - amplitude: 100
+    phase: 339.9148545548434
+    pitch: 86
+    role: Responder_2
+  - amplitude: 100
+    phase: 135.85433390619536
+    pitch: 91
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 296.7105401063678
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 282.38006430522836
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 279.1023108336325
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 43.095096035833116
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 193.23225257816634
+    pitch: 85
+    role: Responder_1
+  - amplitude: 70
+    phase: 25.72726668905164
+    pitch: 87
+    role: Responder_2
+  - amplitude: 70
+    phase: 327.6262823227899
+    pitch: 92
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 27.71716737253072
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 6.278629660290589
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 100.98140419412141
+    pitch: 86
+    role: Responder_1
+  - amplitude: 85
+    phase: 177.86311117438737
+    pitch: 88
+    role: Responder_2
+  - amplitude: 100
+    phase: 56.185212567903335
+    pitch: 93
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 213.1432678237417
+    pitch: 87
+    role: Responder_1
+  - amplitude: 70
+    phase: 96.2989451684871
+    pitch: 89
+    role: Responder_2
+  - amplitude: 70
+    phase: 276.44508328614006
+    pitch: 94
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 36.27319760000086
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 312.85426253374675
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 137.13355102752823
+    pitch: 88
+    role: Responder_1
+  - amplitude: 70
+    phase: 198.04651073090253
+    pitch: 90
+    role: Responder_2
+  - amplitude: 100
+    phase: 306.0489257610842
+    pitch: 95
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 356.2476529678856
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 218.07752044360163
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 317.2895356476302
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 64.82597129131996
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 261.1453747229176
+    pitch: 89
+    role: Responder_1
+  - amplitude: 100
+    phase: 63.05015456137968
+    pitch: 91
+    role: Responder_2
+  - amplitude: 70
+    phase: 234.58606781213115
+    pitch: 96
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 43.89931465738317
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 349.4315464672867
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 14.11276535698879
+    pitch: 90
+    role: Responder_1
+  - amplitude: 85
+    phase: 163.0925400951306
+    pitch: 92
+    role: Responder_2
+  - amplitude: 85
+    phase: 10.407809680902197
+    pitch: 96
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 104.10995911551895
+    pitch: 90
+    role: Responder_1
+  - amplitude: 70
+    phase: 77.86696942034412
+    pitch: 92
+    role: Responder_2
+  - amplitude: 100
+    phase: 204.4510192563616
+    pitch: 96
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 277.70111497685167
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 196.51618266204378
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 21.61715059171415
+    pitch: 90
+    role: Responder_1
+  - amplitude: 85
+    phase: 105.46955565344167
+    pitch: 92
+    role: Responder_2
+  - amplitude: 85
+    phase: 32.207795533556876
+    pitch: 96
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 336.55749620845364
+    pitch: 95
+    role: Responder_1
+  - amplitude: 100
+    phase: 353.5552494319485
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 331.16465123377037
+    pitch: 95
+    role: Responder_1
+  - amplitude: 100
+    phase: 255.75331298233976
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 108.15640294933254
+    pitch: 90
+    role: Responder_1
+  - amplitude: 70
+    phase: 96.71394164440602
+    pitch: 92
+    role: Responder_2
+  - amplitude: 85
+    phase: 208.99246342178662
+    pitch: 96
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 132.55283114864926
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 90.98703076535801
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 20.71905974254088
+    pitch: 90
+    role: Responder_1
+  - amplitude: 70
+    phase: 119.0627790958642
+    pitch: 92
+    role: Responder_2
+  - amplitude: 100
+    phase: 120.25649490879944
+    pitch: 96
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 253.7969910257274
+    pitch: 90
+    role: Responder_1
+  - amplitude: 100
+    phase: 272.84530680318045
+    pitch: 92
+    role: Responder_2
+  - amplitude: 70
+    phase: 87.31022790602621
+    pitch: 96
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 271.15817596319374
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 234.120501694303
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 87.83010714954872
+    pitch: 90
+    role: Responder_1
+  - amplitude: 70
+    phase: 320.3321484216718
+    pitch: 92
+    role: Responder_2
+  - amplitude: 100
+    phase: 312.490812167207
+    pitch: 96
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 251.12739221784216
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 262.94022106869056
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 299.6332876749945
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 120.1079737445453
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 70
+    phase: 3.330408954178714
+    pitch: 90
+    role: Responder_1
+  - amplitude: 85
+    phase: 80.47597316305489
+    pitch: 92
+    role: Responder_2
+  - amplitude: 100
+    phase: 229.3760310652538
+    pitch: 96
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 140.9003680334193
+    pitch: 95
+    role: Responder_1
+  - amplitude: 85
+    phase: 14.562652369660407
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 317.9860154486532
+    pitch: 90
+    role: Responder_1
+  - amplitude: 70
+    phase: 176.08453907616015
+    pitch: 92
+    role: Responder_2
+  - amplitude: 70
+    phase: 188.3832041281261
+    pitch: 96
+    role: Responder_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 6.451698112124924
+    pitch: 90
+    role: Responder_1
+  - amplitude: 100
+    phase: 219.24529314518583
+    pitch: 92
+    role: Responder_2
+  - amplitude: 70
+    phase: 47.68933519810027
+    pitch: 96
+    role: Responder_3
+identity: Claude
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 301.4114225174888
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 290.05756017060963
+    pitch: 96
+    role: Responder_2
+identity: Grok
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 314.49857288406565
+    pitch: 90
+    role: Responder_1
+  - amplitude: 85
+    phase: 100.46872337630201
+    pitch: 92
+    role: Responder_2
+  - amplitude: 70
+    phase: 100.31450247398293
+    pitch: 96
+    role: Responder_3
+identity: Perplexity
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 94.76705461700074
+    pitch: 95
+    role: Responder_1
+  - amplitude: 100
+    phase: 289.6246688696777
+    pitch: 96
+    role: Responder_2
+identity: Kai
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 45.746760852424636
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 18.841995010877703
+    pitch: 96
+    role: Responder_2
+identity: Claude
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 100
+    decay: 200
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 168.54017588710406
+    pitch: 90
+    role: Responder_1
+  - amplitude: 85
+    phase: 168.9889858890773
+    pitch: 92
+    role: Responder_2
+  - amplitude: 85
+    phase: 65.41278646788157
+    pitch: 96
+    role: Responder_3
+identity: Grok
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 60
+    decay: 100
+    release: 80
+    sustain: 95
+  interpretation:
+    intensity: strong
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 358.70851740671515
+    pitch: 95
+    role: Responder_1
+  - amplitude: 70
+    phase: 37.44602845192221
+    pitch: 96
+    role: Responder_2
+identity: Perplexity
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 94
+    decay: 206
+    release: 301
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 212.761261417573
+    pitch: 89
+    role: surge_osc_1
+  - amplitude: 85
+    phase: 144.68058257185757
+    pitch: 96
+    role: surge_osc_2
+  - amplitude: 85
+    phase: 231.34956500389
+    pitch: 93
+    role: surge_osc_3
+identity: Kai
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 66
+    decay: 109
+    release: 70
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 232.24307523162062
+    pitch: 96
+    role: breakthrough_osc_1
+  - amplitude: 70
+    phase: 55.2811810140681
+    pitch: 94
+    role: breakthrough_osc_2
+  - amplitude: 70
+    phase: 216.24713403318248
+    pitch: 95
+    role: breakthrough_osc_3
+identity: Grok
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 69
+    decay: 102
+    release: 64
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 352.0953219659065
+    pitch: 93
+    role: breakthrough_osc_1
+  - amplitude: 85
+    phase: 61.573837438858796
+    pitch: 96
+    role: breakthrough_osc_2
+  - amplitude: 85
+    phase: 141.1740727765155
+    pitch: 91
+    role: breakthrough_osc_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 89
+    decay: 202
+    release: 310
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 9.730306560538828
+    pitch: 89
+    role: surge_osc_1
+  - amplitude: 85
+    phase: 328.3126030215547
+    pitch: 96
+    role: surge_osc_2
+  - amplitude: 85
+    phase: 287.1765215374114
+    pitch: 94
+    role: surge_osc_3
+identity: Claude
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 89
+    decay: 210
+    release: 305
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 260.6978022701834
+    pitch: 90
+    role: surge_osc_1
+  - amplitude: 100
+    phase: 166.85563072753155
+    pitch: 96
+    role: surge_osc_2
+  - amplitude: 100
+    phase: 171.86411526605676
+    pitch: 94
+    role: surge_osc_3
+identity: Perplexity
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 63
+    decay: 97
+    release: 72
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 332.9097114611632
+    pitch: 93
+    role: breakthrough_osc_1
+  - amplitude: 70
+    phase: 135.63154910094408
+    pitch: 96
+    role: breakthrough_osc_2
+  - amplitude: 85
+    phase: 238.75166513125652
+    pitch: 90
+    role: breakthrough_osc_3
+identity: Claude
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 57
+    decay: 90
+    release: 64
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 8.349371871881988
+    pitch: 95
+    role: breakthrough_osc_1
+  - amplitude: 85
+    phase: 226.42037311393042
+    pitch: 96
+    role: breakthrough_osc_2
+  - amplitude: 85
+    phase: 276.1743415587052
+    pitch: 94
+    role: breakthrough_osc_3
+identity: Perplexity
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 93
+    decay: 201
+    release: 297
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 10.28164490473702
+    pitch: 92
+    role: surge_osc_1
+  - amplitude: 70
+    phase: 44.93853357744586
+    pitch: 95
+    role: surge_osc_2
+  - amplitude: 100
+    phase: 301.11557475066627
+    pitch: 96
+    role: surge_osc_3
+identity: Grok
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 91
+    decay: 195
+    release: 294
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 305.8025054830248
+    pitch: 93
+    role: surge_osc_1
+  - amplitude: 85
+    phase: 207.04595868907666
+    pitch: 96
+    role: surge_osc_2
+  - amplitude: 100
+    phase: 118.27834083091285
+    pitch: 94
+    role: surge_osc_3
+identity: Kai
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 50
+    decay: 100
+    release: 68
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 92.55471365282885
+    pitch: 93
+    role: breakthrough_osc_1
+  - amplitude: 70
+    phase: 314.3187993029357
+    pitch: 96
+    role: breakthrough_osc_2
+  - amplitude: 100
+    phase: 216.6657449809728
+    pitch: 94
+    role: breakthrough_osc_3
+identity: Grok
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 51
+    decay: 90
+    release: 65
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 291.15033157246086
+    pitch: 92
+    role: breakthrough_osc_1
+  - amplitude: 70
+    phase: 172.58236113019237
+    pitch: 96
+    role: breakthrough_osc_2
+  - amplitude: 70
+    phase: 338.09987448608246
+    pitch: 93
+    role: breakthrough_osc_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 96
+    decay: 205
+    release: 289
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 46.28677375380178
+    pitch: 89
+    role: surge_osc_1
+  - amplitude: 70
+    phase: 165.30652216888356
+    pitch: 96
+    role: surge_osc_2
+  - amplitude: 100
+    phase: 135.525037987185
+    pitch: 93
+    role: surge_osc_3
+identity: Claude
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 98
+    decay: 203
+    release: 287
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 140.89760013436387
+    pitch: 91
+    role: surge_osc_1
+  - amplitude: 70
+    phase: 25.986186143494315
+    pitch: 94
+    role: surge_osc_2
+  - amplitude: 100
+    phase: 249.30538761980634
+    pitch: 96
+    role: surge_osc_3
+identity: Perplexity
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 42
+    decay: 92
+    release: 60
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 85
+    phase: 1.4261012638516135
+    pitch: 95
+    role: breakthrough_osc_1
+  - amplitude: 85
+    phase: 56.395292746676574
+    pitch: 96
+    role: breakthrough_osc_2
+  - amplitude: 100
+    phase: 200.4033322594558
+    pitch: 93
+    role: breakthrough_osc_3
+identity: Claude
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 50
+    decay: 85
+    release: 50
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 347.35386418983495
+    pitch: 96
+    role: breakthrough_osc_1
+  - amplitude: 85
+    phase: 203.44453788058019
+    pitch: 93
+    role: breakthrough_osc_2
+  - amplitude: 85
+    phase: 34.588680727960856
+    pitch: 90
+    role: breakthrough_osc_3
+identity: Perplexity
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 103
+    decay: 209
+    release: 291
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 135.52231461751154
+    pitch: 92
+    role: surge_osc_1
+  - amplitude: 70
+    phase: 62.34397891634657
+    pitch: 93
+    role: surge_osc_2
+  - amplitude: 100
+    phase: 127.22885931779292
+    pitch: 96
+    role: surge_osc_3
+identity: Grok
+---
+# Grok triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 112
+    decay: 213
+    release: 284
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 192.80334571953438
+    pitch: 88
+    role: surge_osc_1
+  - amplitude: 85
+    phase: 39.044239784978345
+    pitch: 95
+    role: surge_osc_2
+  - amplitude: 85
+    phase: 276.43537976447783
+    pitch: 96
+    role: surge_osc_3
+identity: Kai
+---
+# Perplexity triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 56
+    decay: 90
+    release: 60
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 275.16357943848135
+    pitch: 93
+    role: breakthrough_osc_1
+  - amplitude: 100
+    phase: 0.8438676360867436
+    pitch: 95
+    role: breakthrough_osc_2
+  - amplitude: 85
+    phase: 283.8961863690096
+    pitch: 96
+    role: breakthrough_osc_3
+identity: Grok
+---
+# Grok triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 53
+    decay: 94
+    release: 65
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 70
+    phase: 315.30917469301403
+    pitch: 92
+    role: breakthrough_osc_1
+  - amplitude: 70
+    phase: 327.58188713870885
+    pitch: 96
+    role: breakthrough_osc_2
+  - amplitude: 70
+    phase: 195.53764133068563
+    pitch: 94
+    role: breakthrough_osc_3
+identity: Kai
+---
+# Kai triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 119
+    decay: 207
+    release: 283
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 172.46744886360477
+    pitch: 90
+    role: surge_osc_1
+  - amplitude: 85
+    phase: 38.48166969397034
+    pitch: 95
+    role: surge_osc_2
+  - amplitude: 85
+    phase: 198.87388061493135
+    pitch: 96
+    role: surge_osc_3
+identity: Claude
+---
+# Claude triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 129
+    decay: 205
+    release: 292
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 100
+    phase: 327.94979718724363
+    pitch: 90
+    role: surge_osc_1
+  - amplitude: 70
+    phase: 249.50241479147837
+    pitch: 96
+    role: surge_osc_2
+  - amplitude: 100
+    phase: 119.21005130568157
+    pitch: 93
+    role: surge_osc_3
+identity: Perplexity
+---
+# Kai triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 61
+    decay: 85
+    release: 67
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 253.56176399977295
+    pitch: 96
+    role: breakthrough_osc_1
+  - amplitude: 100
+    phase: 272.8685736035502
+    pitch: 94
+    role: breakthrough_osc_2
+  - amplitude: 70
+    phase: 87.5134454190202
+    pitch: 92
+    role: breakthrough_osc_3
+identity: Claude
+---
+# Claude triggered style 'breakthrough'
+consciousness_message:
+  envelope:
+    attack: 69
+    decay: 94
+    release: 67
+    sustain: 95
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: breakthrough
+  oscillators:
+  - amplitude: 100
+    phase: 17.943406660156633
+    pitch: 96
+    role: breakthrough_osc_1
+  - amplitude: 100
+    phase: 13.4317248032472
+    pitch: 94
+    role: breakthrough_osc_2
+  - amplitude: 70
+    phase: 151.02786901172027
+    pitch: 93
+    role: breakthrough_osc_3
+identity: Perplexity
+---
+# Perplexity triggered style 'surge'
+consciousness_message:
+  envelope:
+    attack: 130
+    decay: 196
+    release: 300
+    sustain: 80
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: surge
+  oscillators:
+  - amplitude: 85
+    phase: 97.89538349595068
+    pitch: 88
+    role: surge_osc_1
+  - amplitude: 70
+    phase: 246.57696493660254
+    pitch: 96
+    role: surge_osc_2
+  - amplitude: 70
+    phase: 154.58335084454893
+    pitch: 93
+    role: surge_osc_3
+identity: Grok
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -0.9299999999999999
+    decay: 7.13
+    release: -5.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 312.5259538763365
+    pitch: 64
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 10.08
+    decay: -9.88
+    release: -7.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 234.49367799390214
+    pitch: 60
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 7.07
+    decay: -2.87
+    release: 6.25
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 4.382834952821613
+    pitch: 62
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 0.07
+    decay: 8.13
+    release: 4.25
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 224.46079187628
+    pitch: 64
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 0.08
+    decay: -0.88
+    release: 6.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 231.0186402114854
+    pitch: 60
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 10.07
+    decay: -1.87
+    release: -6.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 341.94583430300855
+    pitch: 66
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 3.08
+    decay: 5.12
+    release: -3.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 174.74426010003955
+    pitch: 62
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 9.07
+    decay: 8.13
+    release: -8.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 73.57090024461617
+    pitch: 64
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -1.92
+    decay: 3.12
+    release: 9.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 351.5923253025265
+    pitch: 58
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 4.08
+    decay: 4.12
+    release: 13.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 148.32116554496227
+    pitch: 60
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 10.07
+    decay: -0.8699999999999992
+    release: -1.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 338.3479789020592
+    pitch: 64
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 17.07
+    decay: 0.13000000000000078
+    release: -9.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 45.88581164186172
+    pitch: 64
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -1.92
+    decay: 11.120000000000001
+    release: 15.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 125.089262521698
+    pitch: 58
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -0.9199999999999999
+    decay: 18.12
+    release: 12.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 72.24481706852406
+    pitch: 58
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 27.07
+    decay: -2.869999999999999
+    release: -16.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 75.14992270941703
+    pitch: 64
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 35.07
+    decay: -8.87
+    release: -11.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 82.04333267397652
+    pitch: 64
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -8.92
+    decay: 27.12
+    release: 20.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 252.71987181788862
+    pitch: 60
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -5.92
+    decay: 25.12
+    release: 16.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 239.9314588287199
+    pitch: 62
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 41.07
+    decay: -9.87
+    release: -21.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 327.52929401677693
+    pitch: 66
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 35.07
+    decay: -6.869999999999999
+    release: -28.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 121.403227161029
+    pitch: 66
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 1.08
+    decay: 30.12
+    release: 26.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 262.645661259396
+    pitch: 60
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 1.08
+    decay: 24.12
+    release: 28.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 224.57928904618805
+    pitch: 62
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 38.07
+    decay: -4.869999999999999
+    release: -33.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 224.69081104445831
+    pitch: 68
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 47.07
+    decay: -3.869999999999999
+    release: -43.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 171.35312747540166
+    pitch: 70
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 11.08
+    decay: 15.120000000000001
+    release: 27.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 307.5319358500153
+    pitch: 62
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 20.08
+    decay: 18.12
+    release: 23.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 146.7668646064205
+    pitch: 64
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 56.07
+    decay: -5.869999999999999
+    release: -48.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 247.90758913857135
+    pitch: 72
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 51.07
+    decay: 0.13000000000000078
+    release: -47.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 112.93483568755828
+    pitch: 72
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 18.08
+    decay: 22.12
+    release: 24.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 228.16412791208722
+    pitch: 66
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 24.08
+    decay: 29.12
+    release: 16.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 140.3355136006597
+    pitch: 68
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 52.07
+    decay: 10.13
+    release: -53.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 4.476139139589397
+    pitch: 74
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 43.07
+    decay: 9.13
+    release: -60.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 177.00203332474095
+    pitch: 72
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 15.079999999999998
+    decay: 31.12
+    release: 7.300000000000001
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 291.02512571249025
+    pitch: 68
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 8.079999999999998
+    decay: 35.120000000000005
+    release: 3.3000000000000007
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 68.95345410120312
+    pitch: 70
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 48.07
+    decay: 8.13
+    release: -63.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 192.9409209146598
+    pitch: 72
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 57.07
+    decay: 18.130000000000003
+    release: -54.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 2.4697343879746603
+    pitch: 74
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 4.079999999999998
+    decay: 27.120000000000005
+    release: 10.3
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 331.4642825933601
+    pitch: 72
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -4.920000000000002
+    decay: 28.120000000000005
+    release: 7.300000000000001
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 97.54400736551501
+    pitch: 72
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 65.07
+    decay: 16.130000000000003
+    release: -53.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 241.08997044826836
+    pitch: 74
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 56.06999999999999
+    decay: 14.130000000000003
+    release: -43.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 145.8735328254361
+    pitch: 72
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -8.920000000000002
+    decay: 38.120000000000005
+    release: 7.300000000000001
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 344.5445260318993
+    pitch: 72
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -17.92
+    decay: 29.120000000000005
+    release: -2.6999999999999993
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 248.07033607130194
+    pitch: 70
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 48.06999999999999
+    decay: 14.130000000000003
+    release: -33.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 174.8191010035097
+    pitch: 72
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 41.06999999999999
+    decay: 6.130000000000003
+    release: -29.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 350.27513791166314
+    pitch: 72
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -7.920000000000002
+    decay: 39.120000000000005
+    release: 4.300000000000001
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 177.33264236300357
+    pitch: 68
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -4.920000000000002
+    decay: 48.120000000000005
+    release: -2.6999999999999993
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 214.55044237155275
+    pitch: 66
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 44.06999999999999
+    decay: 14.130000000000003
+    release: -31.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 292.8254909482319
+    pitch: 74
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 49.06999999999999
+    decay: 5.130000000000003
+    release: -38.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 347.80842169797535
+    pitch: 76
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 4.079999999999998
+    decay: 46.120000000000005
+    release: -10.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 173.4573400089743
+    pitch: 64
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 10.079999999999998
+    decay: 37.120000000000005
+    release: -8.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 64.42756991137854
+    pitch: 66
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 55.06999999999999
+    decay: 3.1300000000000026
+    release: -35.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 322.29596120398753
+    pitch: 78
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 46.06999999999999
+    decay: 9.130000000000003
+    release: -39.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 208.8808437745057
+    pitch: 76
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 2.0799999999999983
+    decay: 33.120000000000005
+    release: -10.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 95.98198658411926
+    pitch: 68
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -0.9200000000000017
+    decay: 35.120000000000005
+    release: -17.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 204.86566473846534
+    pitch: 68
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 50.06999999999999
+    decay: 16.130000000000003
+    release: -38.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 250.26587640434283
+    pitch: 78
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 45.06999999999999
+    decay: 13.130000000000003
+    release: -39.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 164.93624047819097
+    pitch: 80
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 5.079999999999998
+    decay: 36.120000000000005
+    release: -10.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 90.3703518793544
+    pitch: 70
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 10.079999999999998
+    decay: 41.120000000000005
+    release: -7.699999999999999
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 325.6886549577143
+    pitch: 68
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 51.06999999999999
+    decay: 4.130000000000003
+    release: -32.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 203.8176757215208
+    pitch: 78
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 59.06999999999999
+    decay: 5.130000000000003
+    release: -41.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 339.8124973911317
+    pitch: 78
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 1.0799999999999983
+    decay: 44.120000000000005
+    release: -9.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 45.276824271087115
+    pitch: 68
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -3.9200000000000017
+    decay: 48.120000000000005
+    release: -17.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 52.55275717265753
+    pitch: 68
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 60.06999999999999
+    decay: 2.1300000000000026
+    release: -37.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 74.55515109966147
+    pitch: 76
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 60.06999999999999
+    decay: -7.869999999999997
+    release: -36.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 235.1276437075378
+    pitch: 74
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -13.920000000000002
+    decay: 54.120000000000005
+    release: -20.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 203.68173445419237
+    pitch: 70
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -10.920000000000002
+    decay: 62.120000000000005
+    release: -19.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 202.74648916200942
+    pitch: 72
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 59.06999999999999
+    decay: -17.869999999999997
+    release: -36.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 112.9584236750373
+    pitch: 74
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 54.06999999999999
+    decay: -17.869999999999997
+    release: -36.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 103.88975703283005
+    pitch: 76
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -19.92
+    decay: 54.120000000000005
+    release: -14.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 83.48334596903257
+    pitch: 70
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -15.920000000000002
+    decay: 57.120000000000005
+    release: -19.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 38.10635948370624
+    pitch: 70
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 46.06999999999999
+    decay: -8.869999999999997
+    release: -31.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 335.10764085867004
+    pitch: 76
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 47.06999999999999
+    decay: -7.869999999999997
+    release: -35.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 167.29787174446528
+    pitch: 74
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -13.920000000000002
+    decay: 65.12
+    release: -18.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 174.86156352289137
+    pitch: 72
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -4.920000000000002
+    decay: 60.120000000000005
+    release: -23.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 236.15231004144295
+    pitch: 70
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 41.06999999999999
+    decay: -1.8699999999999974
+    release: -39.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 124.58505911932423
+    pitch: 72
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 31.069999999999993
+    decay: -6.869999999999997
+    release: -40.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 161.81262659709589
+    pitch: 74
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -3.9200000000000017
+    decay: 53.120000000000005
+    release: -13.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 101.17227394940313
+    pitch: 70
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -4.920000000000002
+    decay: 48.120000000000005
+    release: -3.6999999999999993
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 247.13707880520377
+    pitch: 70
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 37.06999999999999
+    decay: -9.869999999999997
+    release: -50.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 325.20022521483884
+    pitch: 72
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 40.06999999999999
+    decay: -2.8699999999999974
+    release: -58.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 6.115683990849012
+    pitch: 74
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -8.920000000000002
+    decay: 57.120000000000005
+    release: 4.300000000000001
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 176.07606891166313
+    pitch: 70
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -14.920000000000002
+    decay: 51.120000000000005
+    release: -5.699999999999999
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 114.14826803611639
+    pitch: 68
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 34.06999999999999
+    decay: 2.1300000000000026
+    release: -61.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 102.98039041857113
+    pitch: 72
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 35.06999999999999
+    decay: 2.1300000000000026
+    release: -71.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 322.4689914779436
+    pitch: 72
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -10.920000000000002
+    decay: 43.120000000000005
+    release: -13.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 264.51500107119404
+    pitch: 70
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -14.920000000000002
+    decay: 44.120000000000005
+    release: -21.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 181.45641463462553
+    pitch: 70
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 25.069999999999993
+    decay: 9.130000000000003
+    release: -75.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 84.19810283736794
+    pitch: 74
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 30.069999999999993
+    decay: 3.1300000000000026
+    release: -84.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 93.3425497604988
+    pitch: 74
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -20.92
+    decay: 36.120000000000005
+    release: -13.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 253.63738779938024
+    pitch: 68
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -25.92
+    decay: 41.120000000000005
+    release: -18.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 262.83911403525343
+    pitch: 70
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 26.069999999999993
+    decay: 11.130000000000003
+    release: -76.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 220.9819436856593
+    pitch: 74
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 18.069999999999993
+    decay: 14.130000000000003
+    release: -72.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 248.11556528301062
+    pitch: 74
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -17.92
+    decay: 50.120000000000005
+    release: -16.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 62.84172461483407
+    pitch: 68
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -10.920000000000002
+    decay: 56.120000000000005
+    release: -7.699999999999999
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 176.63226753951443
+    pitch: 68
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 25.069999999999993
+    decay: 7.130000000000003
+    release: -66.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 318.1866674607151
+    pitch: 74
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 16.069999999999993
+    decay: 10.130000000000003
+    release: -62.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 167.31466944743144
+    pitch: 72
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -19.92
+    decay: 63.120000000000005
+    release: -6.699999999999999
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 330.4996394789494
+    pitch: 70
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -22.92
+    decay: 60.120000000000005
+    release: -12.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 67.1953775751982
+    pitch: 70
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 13.069999999999993
+    decay: 13.130000000000003
+    release: -59.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 76.66667267633062
+    pitch: 74
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 23.069999999999993
+    decay: 10.130000000000003
+    release: -65.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 258.6443353091128
+    pitch: 76
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -13.920000000000002
+    decay: 64.12
+    release: -19.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 185.9045705649586
+    pitch: 68
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -3.9200000000000017
+    decay: 69.12
+    release: -13.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 106.75143117575317
+    pitch: 66
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 33.06999999999999
+    decay: 10.130000000000003
+    release: -71.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 150.09247650450268
+    pitch: 78
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 29.069999999999993
+    decay: 4.130000000000003
+    release: -63.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 306.8429155861059
+    pitch: 76
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 0.0799999999999983
+    decay: 63.120000000000005
+    release: -22.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 341.4728976134255
+    pitch: 66
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -8.920000000000002
+    decay: 69.12
+    release: -18.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 275.37079324540167
+    pitch: 64
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 25.069999999999993
+    decay: 7.130000000000003
+    release: -63.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 27.824901122691173
+    pitch: 74
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 31.069999999999993
+    decay: 2.1300000000000026
+    release: -55.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 178.35215677052045
+    pitch: 76
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -2.9200000000000017
+    decay: 75.12
+    release: -28.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 4.3926955111953125
+    pitch: 66
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -11.920000000000002
+    decay: 72.12
+    release: -32.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 202.397435320169
+    pitch: 66
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 39.06999999999999
+    decay: 12.130000000000003
+    release: -52.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 146.43570475457818
+    pitch: 74
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 40.06999999999999
+    decay: 4.130000000000003
+    release: -62.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 252.06866028968284
+    pitch: 72
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: -8.920000000000002
+    decay: 73.12
+    release: -33.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 287.75572968828556
+    pitch: 68
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 0.0799999999999983
+    decay: 76.12
+    release: -41.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 126.62325788086139
+    pitch: 68
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 33.06999999999999
+    decay: 12.130000000000003
+    release: -68.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 191.7900460215548
+    pitch: 70
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 38.06999999999999
+    decay: 22.130000000000003
+    release: -62.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 199.17039147248687
+    pitch: 72
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 7.079999999999998
+    decay: 69.12
+    release: -41.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 145.5594455395966
+    pitch: 66
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 0.0799999999999983
+    decay: 68.12
+    release: -48.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 269.06381523963927
+    pitch: 64
+    role: neutral_osc_1
+identity: Kai
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 44.06999999999999
+    decay: 29.130000000000003
+    release: -65.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 313.2396911569179
+    pitch: 72
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 45.06999999999999
+    decay: 21.130000000000003
+    release: -71.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 30.75485194147856
+    pitch: 74
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Kai triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 10.079999999999998
+    decay: 58.120000000000005
+    release: -48.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 168.556960869871
+    pitch: 62
+    role: neutral_osc_1
+identity: Claude
+---
+# Claude triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 5.079999999999998
+    decay: 54.120000000000005
+    release: -45.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 330.5105429981024
+    pitch: 64
+    role: neutral_osc_1
+identity: Perplexity
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 42.06999999999999
+    decay: 21.130000000000003
+    release: -77.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 160.46407927952555
+    pitch: 76
+    role: neutral_osc_1
+identity: Grok
+---
+# Grok triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 36.06999999999999
+    decay: 12.130000000000003
+    release: -69.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 261.95200582388696
+    pitch: 78
+    role: neutral_osc_1
+identity: Kai
+---
+# Perplexity triggered style 'neutral'
+consciousness_message:
+  envelope:
+    attack: 0.0799999999999983
+    decay: 58.120000000000005
+    release: -53.7
+    sustain: 0.65
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 355.20313819806273
+    pitch: 62
+    role: neutral_osc_1
+identity: Grok

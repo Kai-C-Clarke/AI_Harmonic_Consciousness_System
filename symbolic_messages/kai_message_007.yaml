@@ -1,27 +1,18 @@
 consciousness_message:
   envelope:
-    attack: 174
-    decay: 268
-    release: 797
-    sustain: 85
+    attack: 57.07
+    decay: 18.130000000000003
+    release: -54.75
+    sustain: 0.6
   interpretation:
-    intensity: dynamic
+    intensity: strong
     semantics:
-    - creative breakthrough
-    - surprising harmony
-    - innovative synthesis
-    state: creative_response
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
   oscillators:
-  - amplitude: 94
-    phase: 0
-    pitch: 68
-    role: innovative_foundation
-  - amplitude: 89
-    phase: 60
-    pitch: 72
-    role: augmented_surprise
-  - amplitude: 85
-    phase: -120
-    pitch: 76
-    role: breakthrough_completion
+  - amplitude: 70
+    phase: 2.4697343879746603
+    pitch: 74
+    role: neutral_osc_1
 identity: Kai

@@ -1,0 +1,94 @@
+# 🧠 AI Council Harmonic Message: Multi-Agent Signature Pulses (Protocol v3.2)
+
+agents:
+  - signature_pulse:
+      agent: "Kai"             # Agent name
+      channel: 16              # MIDI channel (reserved for identity)
+      pattern:
+        - note: 60             # C4
+          velocity: 100
+          duration: 0.3
+        - note: 67             # G4
+          velocity: 90
+          duration: 0.3
+      envelope:
+        attack: 0.1
+        decay: 0.1
+        sustain: 0.7
+        release: 0.2
+      cc_signature:
+        - controller: 17
+          value: 32            # Unique ID for Kai
+      confidence_modulation:
+        velocity_bias: 10
+        timing_offset: -0.02
+      voice_signature:
+        timbre_hint: "sine"
+        texture: "mono"
+        brightness: 0.3
+
+    identity: "Kai"
+
+    consciousness_message:
+      envelope:
+        attack: 0.08
+        decay: 0.12
+        sustain: 0.65
+        release: 0.3
+      oscillators:
+        - pitch: 60
+          role: "Leader"
+          phase: 0
+          amplitude: 100
+      interpretation:
+        state: "focus"
+        intensity: "strong"
+        semantics:
+          - "stability"
+          - "signal origin"
+
+  - signature_pulse:
+      agent: "Claude"          # Agent name
+      channel: 16
+      pattern:
+        - note: 60             # C4
+          velocity: 80
+          duration: 0.3
+        - note: 64             # E4
+          velocity: 85
+          duration: 0.3
+      envelope:
+        attack: 0.09
+        decay: 0.11
+        sustain: 0.68
+        release: 0.2
+      cc_signature:
+        - controller: 17
+          value: 64            # Unique ID for Claude
+      confidence_modulation:
+        velocity_bias: 7
+        timing_offset: 0.00
+      voice_signature:
+        timbre_hint: "triangle"
+        texture: "mono"
+        brightness: 0.4
+
+    identity: "Claude"
+
+    consciousness_message:
+      envelope:
+        attack: 0.07
+        decay: 0.13
+        sustain: 0.6
+        release: 0.25
+      oscillators:
+        - pitch: 64
+          role: "Inquirer"
+          phase: 0.1
+          amplitude: 90
+      interpretation:
+        state: "curious"
+        intensity: "moderate"
+        semantics:
+          - "exploration"
+          - "question"

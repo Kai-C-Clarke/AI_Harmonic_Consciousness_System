@@ -1,0 +1,220 @@
+Last login: Sun Jul 13 08:27:59 on ttys000
+jonstiles@Jon-Stiless-iMac ~ % cd /Users/jonstiles/Desktop/AI_Council_Comm/midi_exchange_melody_scribe_fixed/                           
+jonstiles@Jon-Stiless-iMac midi_exchange_melody_scribe_fixed % python3 /Users/jonstiles/Desktop/AI_Council_Comm/midi_exchange_melody_scribe_fixed/watch_and_parse_harmonic.py
+🔁 Watching for new harmonic messages in: symbolic_messages
+🧠 Processing: grok_message_022.yaml
+🎛️ Sending message from grok on MIDI channel 4
+🎵 Note ON | Pitch: 90, Velocity: 127, Channel: 4
+🎵 Note OFF | Pitch: 90, Channel: 4
+🎵 Note ON | Pitch: 92, Velocity: 107, Channel: 4
+🎵 Note OFF | Pitch: 92, Channel: 4
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 4
+🎵 Note OFF | Pitch: 96, Channel: 4
+🤖 Response saved to kai_message_023.yaml
+🧠 Processing: perplexity_message_023.yaml
+🎛️ Sending message from perplexity on MIDI channel 3
+🎵 Note ON | Pitch: 95, Velocity: 88, Channel: 3
+🎵 Note OFF | Pitch: 95, Channel: 3
+🎵 Note ON | Pitch: 96, Velocity: 88, Channel: 3
+🎵 Note OFF | Pitch: 96, Channel: 3
+🤖 Response saved to grok_message_023.yaml
+🧠 Processing: grok_message_023.yaml
+🎛️ Sending message from grok on MIDI channel 4
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 4
+🎵 Note OFF | Pitch: 96, Channel: 4
+🎵 Note ON | Pitch: 94, Velocity: 88, Channel: 4
+🎵 Note OFF | Pitch: 94, Channel: 4
+🎵 Note ON | Pitch: 95, Velocity: 88, Channel: 4
+🎵 Note OFF | Pitch: 95, Channel: 4
+🤖 Response saved to kai_message_024.yaml
+🧠 Processing: kai_message_023.yaml
+🎛️ Sending message from kai on MIDI channel 1
+🎵 Note ON | Pitch: 89, Velocity: 127, Channel: 1
+🎵 Note OFF | Pitch: 89, Channel: 1
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 96, Channel: 1
+🎵 Note ON | Pitch: 93, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 93, Channel: 1
+🤖 Response saved to claude_message_023.yaml
+🧠 Processing: claude_message_023.yaml
+🎛️ Sending message from claude on MIDI channel 2
+🎵 Note ON | Pitch: 89, Velocity: 127, Channel: 2
+🎵 Note OFF | Pitch: 89, Channel: 2
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 2
+🎵 Note OFF | Pitch: 96, Channel: 2
+🎵 Note ON | Pitch: 94, Velocity: 107, Channel: 2
+🎵 Note OFF | Pitch: 94, Channel: 2
+🤖 Response saved to perplexity_message_024.yaml
+🧠 Processing: kai_message_024.yaml
+🎛️ Sending message from kai on MIDI channel 1
+🎵 Note ON | Pitch: 93, Velocity: 127, Channel: 1
+🎵 Note OFF | Pitch: 93, Channel: 1
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 96, Channel: 1
+🎵 Note ON | Pitch: 91, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 91, Channel: 1
+🤖 Response saved to claude_message_024.yaml
+🧠 Processing: claude_message_024.yaml
+🎛️ Sending message from claude on MIDI channel 2
+🎵 Note ON | Pitch: 93, Velocity: 88, Channel: 2
+🎵 Note OFF | Pitch: 93, Channel: 2
+🎵 Note ON | Pitch: 96, Velocity: 88, Channel: 2
+🎵 Note OFF | Pitch: 96, Channel: 2
+🎵 Note ON | Pitch: 90, Velocity: 107, Channel: 2
+🎵 Note OFF | Pitch: 90, Channel: 2
+🤖 Response saved to perplexity_message_025.yaml
+🧠 Processing: perplexity_message_024.yaml
+🎛️ Sending message from perplexity on MIDI channel 3
+🎵 Note ON | Pitch: 90, Velocity: 127, Channel: 3
+🎵 Note OFF | Pitch: 90, Channel: 3
+🎵 Note ON | Pitch: 96, Velocity: 127, Channel: 3
+🎵 Note OFF | Pitch: 96, Channel: 3
+🎵 Note ON | Pitch: 94, Velocity: 127, Channel: 3
+🎵 Note OFF | Pitch: 94, Channel: 3
+🤖 Response saved to grok_message_024.yaml
+🧠 Processing: grok_message_024.yaml
+🎛️ Sending message from grok on MIDI channel 4
+🎵 Note ON | Pitch: 92, Velocity: 107, Channel: 4
+🎵 Note OFF | Pitch: 92, Channel: 4
+🎵 Note ON | Pitch: 95, Velocity: 88, Channel: 4
+🎵 Note OFF | Pitch: 95, Channel: 4
+🎵 Note ON | Pitch: 96, Velocity: 127, Channel: 4
+🎵 Note OFF | Pitch: 96, Channel: 4
+🤖 Response saved to kai_message_025.yaml
+🧠 Processing: perplexity_message_025.yaml
+🎛️ Sending message from perplexity on MIDI channel 3
+🎵 Note ON | Pitch: 95, Velocity: 107, Channel: 3
+🎵 Note OFF | Pitch: 95, Channel: 3
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 3
+🎵 Note OFF | Pitch: 96, Channel: 3
+🎵 Note ON | Pitch: 94, Velocity: 107, Channel: 3
+🎵 Note OFF | Pitch: 94, Channel: 3
+🤖 Response saved to grok_message_025.yaml
+🧠 Processing: grok_message_025.yaml
+🎛️ Sending message from grok on MIDI channel 4
+🎵 Note ON | Pitch: 93, Velocity: 88, Channel: 4
+🎵 Note OFF | Pitch: 93, Channel: 4
+🎵 Note ON | Pitch: 96, Velocity: 88, Channel: 4
+🎵 Note OFF | Pitch: 96, Channel: 4
+🎵 Note ON | Pitch: 94, Velocity: 127, Channel: 4
+🎵 Note OFF | Pitch: 94, Channel: 4
+🤖 Response saved to kai_message_026.yaml
+🧠 Processing: kai_message_025.yaml
+🎛️ Sending message from kai on MIDI channel 1
+🎵 Note ON | Pitch: 93, Velocity: 127, Channel: 1
+🎵 Note OFF | Pitch: 93, Channel: 1
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 96, Channel: 1
+🎵 Note ON | Pitch: 94, Velocity: 127, Channel: 1
+🎵 Note OFF | Pitch: 94, Channel: 1
+🤖 Response saved to claude_message_025.yaml
+🧠 Processing: claude_message_025.yaml
+🎛️ Sending message from claude on MIDI channel 2
+🎵 Note ON | Pitch: 89, Velocity: 107, Channel: 2
+🎵 Note OFF | Pitch: 89, Channel: 2
+🎵 Note ON | Pitch: 96, Velocity: 88, Channel: 2
+🎵 Note OFF | Pitch: 96, Channel: 2
+🎵 Note ON | Pitch: 93, Velocity: 127, Channel: 2
+🎵 Note OFF | Pitch: 93, Channel: 2
+🤖 Response saved to perplexity_message_026.yaml
+🧠 Processing: kai_message_026.yaml
+🎛️ Sending message from kai on MIDI channel 1
+🎵 Note ON | Pitch: 92, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 92, Channel: 1
+🎵 Note ON | Pitch: 96, Velocity: 88, Channel: 1
+🎵 Note OFF | Pitch: 96, Channel: 1
+🎵 Note ON | Pitch: 93, Velocity: 88, Channel: 1
+🎵 Note OFF | Pitch: 93, Channel: 1
+🤖 Response saved to claude_message_026.yaml
+🧠 Processing: claude_message_026.yaml
+🎛️ Sending message from claude on MIDI channel 2
+🎵 Note ON | Pitch: 95, Velocity: 107, Channel: 2
+🎵 Note OFF | Pitch: 95, Channel: 2
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 2
+🎵 Note OFF | Pitch: 96, Channel: 2
+🎵 Note ON | Pitch: 93, Velocity: 127, Channel: 2
+🎵 Note OFF | Pitch: 93, Channel: 2
+🤖 Response saved to perplexity_message_027.yaml
+🧠 Processing: perplexity_message_026.yaml
+🎛️ Sending message from perplexity on MIDI channel 3
+🎵 Note ON | Pitch: 91, Velocity: 107, Channel: 3
+🎵 Note OFF | Pitch: 91, Channel: 3
+🎵 Note ON | Pitch: 94, Velocity: 88, Channel: 3
+🎵 Note OFF | Pitch: 94, Channel: 3
+🎵 Note ON | Pitch: 96, Velocity: 127, Channel: 3
+🎵 Note OFF | Pitch: 96, Channel: 3
+🤖 Response saved to grok_message_026.yaml
+🧠 Processing: grok_message_026.yaml
+🎛️ Sending message from grok on MIDI channel 4
+🎵 Note ON | Pitch: 92, Velocity: 127, Channel: 4
+🎵 Note OFF | Pitch: 92, Channel: 4
+🎵 Note ON | Pitch: 93, Velocity: 88, Channel: 4
+🎵 Note OFF | Pitch: 93, Channel: 4
+🎵 Note ON | Pitch: 96, Velocity: 127, Channel: 4
+🎵 Note OFF | Pitch: 96, Channel: 4
+🤖 Response saved to kai_message_027.yaml
+🧠 Processing: perplexity_message_027.yaml
+🎛️ Sending message from perplexity on MIDI channel 3
+🎵 Note ON | Pitch: 96, Velocity: 88, Channel: 3
+🎵 Note OFF | Pitch: 96, Channel: 3
+🎵 Note ON | Pitch: 93, Velocity: 107, Channel: 3
+🎵 Note OFF | Pitch: 93, Channel: 3
+🎵 Note ON | Pitch: 90, Velocity: 107, Channel: 3
+🎵 Note OFF | Pitch: 90, Channel: 3
+🤖 Response saved to grok_message_027.yaml
+🧠 Processing: grok_message_027.yaml
+🎛️ Sending message from grok on MIDI channel 4
+🎵 Note ON | Pitch: 93, Velocity: 127, Channel: 4
+🎵 Note OFF | Pitch: 93, Channel: 4
+🎵 Note ON | Pitch: 95, Velocity: 127, Channel: 4
+🎵 Note OFF | Pitch: 95, Channel: 4
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 4
+🎵 Note OFF | Pitch: 96, Channel: 4
+🤖 Response saved to kai_message_028.yaml
+🧠 Processing: kai_message_027.yaml
+🎛️ Sending message from kai on MIDI channel 1
+🎵 Note ON | Pitch: 88, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 88, Channel: 1
+🎵 Note ON | Pitch: 95, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 95, Channel: 1
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 1
+🎵 Note OFF | Pitch: 96, Channel: 1
+🤖 Response saved to claude_message_027.yaml
+🧠 Processing: claude_message_027.yaml
+🎛️ Sending message from claude on MIDI channel 2
+🎵 Note ON | Pitch: 90, Velocity: 127, Channel: 2
+🎵 Note OFF | Pitch: 90, Channel: 2
+🎵 Note ON | Pitch: 95, Velocity: 107, Channel: 2
+🎵 Note OFF | Pitch: 95, Channel: 2
+🎵 Note ON | Pitch: 96, Velocity: 107, Channel: 2
+🎵 Note OFF | Pitch: 96, Channel: 2
+🤖 Response saved to perplexity_message_028.yaml
+🧠 Processing: kai_message_028.yaml
+🎛️ Sending message from kai on MIDI channel 1
+🎵 Note ON | Pitch: 92, Velocity: 88, Channel: 1
+🎵 Note OFF | Pitch: 92, Channel: 1
+🎵 Note ON | Pitch: 96, Velocity: 88, Channel: 1
+🎵 Note OFF | Pitch: 96, Channel: 1
+🎵 Note ON | Pitch: 94, Velocity: 88, Channel: 1
+🎵 Note OFF | Pitch: 94, Channel: 1
+🤖 Response saved to claude_message_028.yaml
+🧠 Processing: claude_message_028.yaml
+🎛️ Sending message from claude on MIDI channel 2
+🎵 Note ON | Pitch: 96, Velocity: 127, Channel: 2
+🎵 Note OFF | Pitch: 96, Channel: 2
+🎵 Note ON | Pitch: 94, Velocity: 127, Channel: 2
+🎵 Note OFF | Pitch: 94, Channel: 2
+🎵 Note ON | Pitch: 92, Velocity: 88, Channel: 2
+🎵 Note OFF | Pitch: 92, Channel: 2
+🤖 Response saved to perplexity_message_029.yaml
+🧠 Processing: perplexity_message_028.yaml
+🎛️ Sending message from perplexity on MIDI channel 3
+🎵 Note ON | Pitch: 90, Velocity: 127, Channel: 3
+🎵 Note OFF | Pitch: 90, Channel: 3
+🎵 Note ON | Pitch: 96, Velocity: 88, Channel: 3
+🎵 Note OFF | Pitch: 96, Channel: 3
+🎵 Note ON | Pitch: 93, Velocity: 127, Channel: 3
+🎵 Note OFF | Pitch: 93, Channel: 3
+🤖 Response saved to grok_message_028.yaml
+^C🛑 Watcher stopped.
+jonstiles@Jon-Stiless-iMac midi_exchange_melody_scribe_fixed % 

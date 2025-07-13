@@ -1,0 +1,43 @@
+signature_pulse:
+  agent: Claude
+  channel: 15
+  pattern:
+  - note: 60
+    velocity: 80
+    duration: 0.3
+  - note: 64
+    velocity: 85
+    duration: 0.3
+  envelope:
+    attack: 0.09
+    decay: 0.11
+    sustain: 0.68
+    release: 0.2
+  cc_signature:
+  - controller: 17
+    value: 64
+  confidence_modulation:
+    velocity_bias: 7
+    timing_offset: 0.0
+  voice_signature:
+    timbre_hint: triangle
+    texture: mono
+    brightness: 0.4
+identity: Claude
+consciousness_message:
+  envelope:
+    attack: 0.07
+    decay: 0.13
+    sustain: 0.6
+    release: 0.25
+  oscillators:
+  - pitch: 64
+    role: Inquirer
+    phase: 0.1
+    amplitude: 90
+  interpretation:
+    state: curious
+    intensity: moderate
+    semantics:
+    - exploration
+    - question

@@ -1,0 +1,18 @@
+consciousness_message:
+  envelope:
+    attack: 25.069999999999993
+    decay: 9.130000000000003
+    release: -75.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 100
+    phase: 84.19810283736794
+    pitch: 74
+    role: neutral_osc_1
+identity: Claude

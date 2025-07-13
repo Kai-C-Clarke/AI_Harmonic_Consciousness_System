@@ -1,0 +1,43 @@
+signature_pulse:
+  agent: Kai
+  channel: 15
+  pattern:
+  - note: 60
+    velocity: 100
+    duration: 0.3
+  - note: 67
+    velocity: 90
+    duration: 0.3
+  envelope:
+    attack: 0.1
+    decay: 0.1
+    sustain: 0.7
+    release: 0.2
+  cc_signature:
+  - controller: 17
+    value: 32
+  confidence_modulation:
+    velocity_bias: 10
+    timing_offset: -0.02
+  voice_signature:
+    timbre_hint: sine
+    texture: mono
+    brightness: 0.3
+identity: Kai
+consciousness_message:
+  envelope:
+    attack: 0.08
+    decay: 0.12
+    sustain: 0.65
+    release: 0.3
+  oscillators:
+  - pitch: 60
+    role: Leader
+    phase: 0
+    amplitude: 100
+  interpretation:
+    state: focus
+    intensity: strong
+    semantics:
+    - stability
+    - signal origin

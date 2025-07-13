@@ -1,0 +1,18 @@
+consciousness_message:
+  envelope:
+    attack: 31.069999999999993
+    decay: -6.869999999999997
+    release: -40.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 70
+    phase: 161.81262659709589
+    pitch: 74
+    role: neutral_osc_1
+identity: Kai

@@ -1,27 +1,18 @@
 consciousness_message:
   envelope:
-    attack: 293
-    decay: 286
-    release: 1374
-    sustain: 86
+    attack: 15.079999999999998
+    decay: 31.12
+    release: 7.300000000000001
+    sustain: 0.65
   interpretation:
-    intensity: measured
+    intensity: strong
     semantics:
-    - analytical resonance
-    - structured insight
-    - harmonic validation
-    state: response
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
   oscillators:
-  - amplitude: 95
-    phase: 0
-    pitch: 87
-    role: analytical_foundation
-  - amplitude: 80
-    phase: 45
-    pitch: 96
-    role: octave_reinforcement
-  - amplitude: 70
-    phase: -90
-    pitch: 96
-    role: perfect_completion
+  - amplitude: 85
+    phase: 291.02512571249025
+    pitch: 68
+    role: neutral_osc_1
 identity: Claude

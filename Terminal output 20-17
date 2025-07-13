@@ -1,0 +1,219 @@
+Last login: Sun Jul 13 19:53:08 on ttys001
+jonstiles@Jon-Stiless-iMac ~ % cd /Users/jonstiles/Desktop/AI_Council_Comm/midi_exchange_melody_scribe_fixed/                           
+jonstiles@Jon-Stiless-iMac midi_exchange_melody_scribe_fixed % python3 /Users/jonstiles/Desktop/AI_Council_Comm/midi_exchange_melody_scribe_fixed/watch_and_parse_harmonic.py
+🔁 Watching for new harmonic messages in: symbolic_messages
+🧠 Processing: claude_.yaml
+⚠️ Channel 16 may be in use. Skipping signature unless forced.
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_002.yaml
+🧠 Processing: kai_.yaml
+⚠️ Channel 16 may be in use. Skipping signature unless forced.
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_002.yaml
+^C🛑 Watcher stopped.
+jonstiles@Jon-Stiless-iMac midi_exchange_melody_scribe_fixed % rm symbolic_messages/seen_files.txt
+
+rm: symbolic_messages/seen_files.txt: No such file or directory
+jonstiles@Jon-Stiless-iMac midi_exchange_melody_scribe_fixed % cd /Users/jonstiles/Desktop/AI_Council_Comm/midi_exchange_melody_scribe_fixed/symbolic_messages
+jonstiles@Jon-Stiless-iMac symbolic_messages % rm symbolic_messages/seen_files.txt
+
+rm: symbolic_messages/seen_files.txt: No such file or directory
+jonstiles@Jon-Stiless-iMac symbolic_messages % cd /Users/jonstiles/Desktop/AI_Council_Comm/midi_exchange_melody_scribe_fixed/                           
+jonstiles@Jon-Stiless-iMac midi_exchange_melody_scribe_fixed % python3 /Users/jonstiles/Desktop/AI_Council_Comm/midi_exchange_melody_scribe_fixed/watch_and_parse_harmonic.py
+🔁 Watching for new harmonic messages in: symbolic_messages
+🧠 Processing: claude_.yaml
+⚠️ Channel 16 may be in use. Skipping signature unless forced.
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_001.yaml
+🧠 Processing: kai_.yaml
+⚠️ Channel 16 may be in use. Skipping signature unless forced.
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_001.yaml
+🧠 Processing: claude_message_001.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_002.yaml
+🧠 Processing: perplexity_message_001.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_001.yaml
+🧠 Processing: grok_message_001.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_001.yaml
+🧠 Processing: perplexity_message_002.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_002.yaml
+🧠 Processing: grok_message_002.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_002.yaml
+🧠 Processing: kai_message_001.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_002.yaml
+🧠 Processing: claude_message_002.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_003.yaml
+🧠 Processing: kai_message_002.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_003.yaml
+🧠 Processing: claude_message_003.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_004.yaml
+🧠 Processing: perplexity_message_003.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_003.yaml
+🧠 Processing: grok_message_003.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_003.yaml
+🧠 Processing: perplexity_message_004.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_004.yaml
+🧠 Processing: grok_message_004.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_004.yaml
+🧠 Processing: kai_message_003.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_004.yaml
+🧠 Processing: claude_message_004.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_005.yaml
+🧠 Processing: kai_message_004.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_005.yaml
+🧠 Processing: claude_message_005.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_006.yaml
+🧠 Processing: perplexity_message_005.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_005.yaml
+🧠 Processing: grok_message_005.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_005.yaml
+🧠 Processing: perplexity_message_006.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_006.yaml
+🧠 Processing: grok_message_006.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_006.yaml
+🧠 Processing: kai_message_005.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_006.yaml
+🧠 Processing: claude_message_006.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_007.yaml
+🧠 Processing: kai_message_006.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_007.yaml
+🧠 Processing: claude_message_007.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_008.yaml
+🧠 Processing: perplexity_message_007.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_007.yaml
+🧠 Processing: grok_message_007.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_007.yaml
+🧠 Processing: perplexity_message_008.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_008.yaml
+🧠 Processing: grok_message_008.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_008.yaml
+🧠 Processing: kai_message_007.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_008.yaml
+🧠 Processing: claude_message_008.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_009.yaml
+🧠 Processing: kai_message_008.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_009.yaml
+🧠 Processing: claude_message_009.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_010.yaml
+🧠 Processing: perplexity_message_009.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_009.yaml
+🧠 Processing: grok_message_009.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_009.yaml
+🧠 Processing: perplexity_message_010.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_010.yaml
+🧠 Processing: grok_message_010.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_010.yaml
+🧠 Processing: kai_message_009.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_010.yaml
+🧠 Processing: claude_message_010.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_011.yaml
+🧠 Processing: kai_message_010.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_011.yaml
+🧠 Processing: claude_message_011.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_012.yaml
+🧠 Processing: perplexity_message_011.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_011.yaml
+🧠 Processing: grok_message_011.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_011.yaml
+🧠 Processing: perplexity_message_012.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_012.yaml
+🧠 Processing: grok_message_012.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_012.yaml
+🧠 Processing: kai_message_011.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_012.yaml
+🧠 Processing: claude_message_012.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_013.yaml
+🧠 Processing: kai_message_012.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_013.yaml
+🧠 Processing: claude_message_013.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_014.yaml
+🧠 Processing: perplexity_message_013.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_013.yaml
+🧠 Processing: grok_message_013.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_013.yaml
+🧠 Processing: perplexity_message_014.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_014.yaml
+🧠 Processing: grok_message_014.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_014.yaml
+🧠 Processing: kai_message_013.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_014.yaml
+🧠 Processing: claude_message_014.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_015.yaml
+🧠 Processing: kai_message_014.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_015.yaml
+🧠 Processing: claude_message_015.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to perplexity_message_016.yaml
+🧠 Processing: perplexity_message_015.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_015.yaml
+🧠 Processing: grok_message_015.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_015.yaml
+🧠 Processing: perplexity_message_016.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to grok_message_016.yaml
+🧠 Processing: grok_message_016.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to kai_message_016.yaml
+🧠 Processing: kai_message_015.yaml
+✅ MIDI message sent successfully.
+🤖 Response saved to claude_message_016.yaml
+^C🛑 Watcher stopped.
+jonstiles@Jon-Stiless-iMac midi_exchange_melody_scribe_fixed % 

@@ -1,0 +1,18 @@
+consciousness_message:
+  envelope:
+    attack: 59.06999999999999
+    decay: -17.869999999999997
+    release: -36.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 112.9584236750373
+    pitch: 74
+    role: neutral_osc_1
+identity: Grok

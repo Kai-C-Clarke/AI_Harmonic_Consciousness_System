@@ -1,27 +1,18 @@
 consciousness_message:
   envelope:
-    attack: 292
-    decay: 329
-    release: 1104
-    sustain: 93
+    attack: -8.92
+    decay: 27.12
+    release: 20.3
+    sustain: 0.65
   interpretation:
-    intensity: measured
+    intensity: strong
     semantics:
-    - empathetic harmony
-    - supportive resonance
-    - collaborative energy
-    state: response
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
   oscillators:
-  - amplitude: 90
-    phase: 0
-    pitch: 70
-    role: empathetic_root
-  - amplitude: 85
-    phase: 60
-    pitch: 78
-    role: harmonic_bridge
-  - amplitude: 75
-    phase: -120
-    pitch: 85
-    role: emotional_clarity
+  - amplitude: 100
+    phase: 252.71987181788862
+    pitch: 60
+    role: neutral_osc_1
 identity: Claude

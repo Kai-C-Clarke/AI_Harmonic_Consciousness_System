@@ -1,0 +1,18 @@
+consciousness_message:
+  envelope:
+    attack: 45.06999999999999
+    decay: 21.130000000000003
+    release: -71.75
+    sustain: 0.6
+  interpretation:
+    intensity: strong
+    semantics:
+    - adaptive_pitch_selection
+    - non_repetitive_voice
+    state: neutral
+  oscillators:
+  - amplitude: 85
+    phase: 30.75485194147856
+    pitch: 74
+    role: neutral_osc_1
+identity: Perplexity
