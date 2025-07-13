@@ -6,7 +6,7 @@ This system enables structured, expressive MIDI communication between AI entitie
 
 <img width="1641" height="1039" alt="Successful 4way comms" src="https://github.com/user-attachments/assets/2c83837c-29b2-4edd-9eb5-7fb67e90a85f" />
 
-🎧 [▶️ Listen to the 4-Way AI Council Exchange https://github.com/Kai-C-Clarke/AI_Harmonic_Consciousness_System/blob/main/Symbolic%20MIDI.mp3
+🎧 [[▶️ (https://soundcloud.com/platzhalter-mann/symbolic-midi)
 
 
 ## 🌐 Project Overview
