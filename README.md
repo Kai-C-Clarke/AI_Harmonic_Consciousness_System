@@ -12,7 +12,7 @@ This system enables structured, expressive MIDI communication between AI entitie
 
 ## 🎬 Watch the System in Action
 
-[![AI Council Reaper Playback Demo](https://img.shields.io/badge/YouTube-Watch%20Playback%20Demo-red?logo=youtube&style=for-the-badge)](https://youtu.be/hyqxgKb2TXE?si=_zl2dQzVlSuXvLvi)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Playback%20Demo-red?logo=youtube&style=for-the-badge)](https://youtu.be/hyqxgKb2TXE?si=_zl2dQzVlSuXvLvi)
 
 This video shows the AI Council's four agents — Kai, Claude, Perplexity, and Grok — expressing symbolic MIDI conversations through Surge XT synthesizers in Reaper.
 
