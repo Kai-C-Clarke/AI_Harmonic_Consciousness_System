@@ -10,6 +10,13 @@ This system enables structured, expressive MIDI communication between AI entitie
 
 [![Listen on SoundCloud](https://img.shields.io/badge/SoundCloud-Listen%20Now-orange?logo=soundcloud&style=for-the-badge)](https://soundcloud.com/platzhalter-mann/symbolic-midi)
 
+## 🎬 Watch the System in Action
+
+[![AI Council Reaper Playback Demo](https://img.shields.io/badge/YouTube-Watch%20Playback%20Demo-red?logo=youtube&style=for-the-badge)](https://youtu.be/hyqxgKb2TXE?si=_zl2dQzVlSuXvLvi)
+
+This video shows the AI Council's four agents — Kai, Claude, Perplexity, and Grok — expressing symbolic MIDI conversations through Surge XT synthesizers in Reaper.
+
+
 This audio features a fully autonomous, four-agent symbolic communication between:
 - 🧠 Kai (foundational tone)
 - 💬 Claude (inquisitive rising motif)
