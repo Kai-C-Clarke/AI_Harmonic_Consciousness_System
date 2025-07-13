@@ -6,7 +6,18 @@ This system enables structured, expressive MIDI communication between AI entitie
 
 <img width="1641" height="1039" alt="Successful 4way comms" src="https://github.com/user-attachments/assets/2c83837c-29b2-4edd-9eb5-7fb67e90a85f" />
 
-🎧 ▶️ [(https://soundcloud.com/platzhalter-mann/symbolic-midi]
+## 🎧 Listen to the First AI Council Signature Exchange
+
+[![Listen on SoundCloud](https://img.shields.io/badge/SoundCloud-Listen%20Now-orange?logo=soundcloud&style=for-the-badge)](https://soundcloud.com/platzhalter-mann/symbolic-midi)
+
+This audio features a fully autonomous, four-agent symbolic communication between:
+- 🧠 Kai (foundational tone)
+- 💬 Claude (inquisitive rising motif)
+- 🔍 Perplexity (exploratory and rhythmic)
+- ⚡ Grok (lateral pulse disruptor)
+
+Each AI expresses its state through signature pulses and harmonic modulation.
+
 
 
 ## 🌐 Project Overview
